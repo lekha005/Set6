@@ -1,5 +1,5 @@
 import java.util.*;
-class Is
+class Iss
 {
     public static void main(String hj[])
     {
